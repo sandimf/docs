@@ -1,0 +1,16 @@
+# Table of contents
+
+* [👾 Home](README.md)
+* [📚 Website](website.md)
+* [React Js](react-js.md)
+* [WIX](wix/README.md)
+  * [WIX SEO](wix/wix-seo/README.md)
+    * [Title Tag Guidelines](wix/wix-seo/title-tag-guidelines.md)
+    * [Meta Descriptions Guidelines](wix/wix-seo/meta-descriptions-guidelines.md)
+    * [Optimize Page Content for SEO](wix/wix-seo/optimize-page-content-for-seo.md)
+    * [Internal Linking Guidelines](wix/wix-seo/internal-linking-guidelines.md)
+    * [Verifyng Site With Google](wix/wix-seo/verifyng-site-with-google.md)
+* [Wordpress](wordpress/README.md)
+  * [Divi Builder](wordpress/divi-builder.md)
+* [🛠️ Scraping](scraping.md)
+* [Python Web Scraping](python-web-scraping.md)
