@@ -11,6 +11,7 @@
     * [Internal Linking Guidelines](wix/wix-seo/internal-linking-guidelines.md)
     * [Verifyng Site With Google](wix/wix-seo/verifyng-site-with-google.md)
     * [Image Optimization Guidelines](wix/wix-seo/image-optimization-guidelines.md)
+  * [Add Google Maps on Wix](wix/add-google-maps-on-wix.md)
 * [Wordpress](wordpress/README.md)
   * [Divi Builder](wordpress/divi-builder.md)
 * [🛠️ Scraping](scraping.md)
