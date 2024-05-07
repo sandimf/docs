@@ -6,7 +6,7 @@
 
 * [React Js](website/react-js.md)
 * [WIX](website/wix/README.md)
-  * [WIX](website/wix/wix/README.md)
+  * [Editor Wix](website/wix/wix/README.md)
     * [Add Google Maps on Wix](website/wix/wix/add-google-maps-on-wix.md)
   * [WIX SEO](website/wix/wix-seo/README.md)
     * [Title Tag Guidelines](website/wix/wix-seo/title-tag-guidelines.md)
