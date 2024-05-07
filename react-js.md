@@ -1,24 +1,48 @@
 # React Js
 
-**1. Introduction to React.js:** React.js is a popular JavaScript library developed by Facebook for building user interfaces. It follows a component-based architecture, where UIs are composed of reusable components. React allows developers to create interactive and dynamic web applications with ease.
+##
 
-**2. Getting Started:** To start using React.js, you need to set up a development environment. You can create a new React project using tools like Create React App or set up a custom development environment with tools like Webpack and Babel.
+{% embed url="https://legacy.reactjs.org/docs/getting-started.html" %}
 
-**3. Components:** Components are the building blocks of React applications. They are reusable and encapsulate UI logic and behavior. Components can be functional or class-based.
+## **Introduction to React.js**
 
-**4. JSX (JavaScript XML):** JSX is a syntax extension for JavaScript that allows you to write HTML-like code within JavaScript. It simplifies the process of creating React elements and makes the code more readable.
+&#x20;React.js is a popular JavaScript library developed by Facebook for building user interfaces. It follows a component-based architecture, where UIs are composed of reusable components. React allows developers to create interactive and dynamic web applications with ease.
 
-**5. Props and State:** Props (short for properties) are used to pass data from parent components to child components. State is used to manage component-specific data that may change over time.
+## **Getting Started**
 
-**6. Handling Events:** React allows you to handle DOM events like onClick, onChange, etc., using event handlers. Event handlers are functions that are called when a specific event occurs.
+To start using React.js, you need to set up a development environment. You can create a new React project using tools like Create React App or set up a custom development environment with tools like Webpack and Babel.
 
-**7. Conditional Rendering:** You can conditionally render components or elements based on certain conditions using conditional statements like if-else or ternary operators.
+## **Components**
 
-**8. Lists and Keys:** Lists allow you to render multiple items dynamically. Keys are special attributes used to uniquely identify list items and help React identify which items have changed, added, or removed.
+Components are the building blocks of React applications. They are reusable and encapsulate UI logic and behavior. Components can be functional or class-based.
 
-**9. Forms:** React provides controlled components for working with forms. Controlled components keep the form data in sync with the component's state, making it easier to manage form inputs.
+## **JSX (JavaScript XML)**
 
-**10. Component Lifecycle:** React components go through various lifecycle phases like mounting, updating, and unmounting. You can use lifecycle methods to perform tasks at different stages of a component's life.
+JSX is a syntax extension for JavaScript that allows you to write HTML-like code within JavaScript. It simplifies the process of creating React elements and makes the code more readable.
+
+## **Props and State**
+
+Props (short for properties) are used to pass data from parent components to child components. State is used to manage component-specific data that may change over time.
+
+## **Handling Events**
+
+React allows you to handle DOM events like onClick, onChange, etc., using event handlers. Event handlers are functions that are called when a specific event occurs.
+
+## **Conditional Rendering**
+
+You can conditionally render components or elements based on certain conditions using conditional statements like if-else or ternary operators.
+
+## **Lists and Keys**
+
+Lists allow you to render multiple items dynamically. Keys are special attributes used to uniquely identify list items and help React identify which items have changed, added, or removed.
+
+## **Forms**
+
+React provides controlled components for working with forms. Controlled components keep the form data in sync with the component's state, making it easier to manage form inputs.
+
+## **Component Lifecycle**
+
+React components go through various lifecycle phases like mounting, updating, and unmounting. You can use lifecycle methods to perform tasks at different stages of a component's life.
 
 **11. Hooks:** Hooks are functions that allow you to use state and other React features in functional components. useState, useEffect, and useContext are some of the built-in hooks provided by React.
 
