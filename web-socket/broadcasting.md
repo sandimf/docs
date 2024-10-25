@@ -1,6 +1,6 @@
 ---
-description: By default, broadcasting is not enabled in new Laravel applications.
 icon: laravel
+description: By default, broadcasting is not enabled in new Laravel applications.
 ---
 
 # Broadcasting
@@ -25,7 +25,7 @@ Behind the scenes, the `install:broadcasting` Artisan command will run the `reve
 
 
 
-#### Application Credentials <a href="#application-credentials" id="application-credentials"></a>
+### Application Credentials <a href="#application-credentials" id="application-credentials"></a>
 
 In order to establish a connection to Reverb, a set of Reverb "application" credentials must be exchanged between the client and server. These credentials are configured on the server and are used to verify the request from the client. You may define these credentials using the following environment variables:
 
@@ -37,7 +37,7 @@ REVERB_APP_SECRET=my-app-secret
 
 
 
-### Echo
+### Setup
 
 1. **Rename the file** from `echo.js` to `echo.ts`.
 2. **Update the content of the `echo.ts` file** as follows:
