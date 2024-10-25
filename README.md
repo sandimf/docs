@@ -77,9 +77,11 @@ php artisan migrate
 
 7. Start Serve
 
+Now, you can start the development server and necessary services:
+
 ```bash
-php artisan serve
-npm run dev
-php artisan reverb:start
-php artisan queue:work
+php artisan serve        # Starts Laravel development server
+npm run dev              # Compiles front-end assets
+php artisan queue:work   # Starts the job queue worker
+php artisan reverb:start # Starts Laravel Reverb (for real-time updates)
 ```
