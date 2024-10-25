@@ -1,2 +1,6 @@
-# Implements sending events
+---
+icon: react
+---
+
+# Implements Sending Events
 
