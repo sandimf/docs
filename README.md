@@ -1,12 +1,10 @@
-# Laravel Klinik Gunun
+# Laravel Klinik Gunung
 
-## Starter Kits
+## System
 
 {% embed url="https://laravel.com/docs/11.x/starter-kits#laravel-breeze" %}
 
-
-
-{% embed url="https://inertiajs.com/" %}
+{% embed url="https://inertiajs.com/" fullWidth="false" %}
 
 ## Database dan Server
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Laravel Klinik Gunun](README.md)
+* [Laravel Klinik Gunung](README.md)
 * [Getting Started](<README (1).md>)
 
 ## Auth
@@ -21,8 +21,8 @@
 ## Screening
 
 * [Offline Screening](screening/offline-screening.md)
+* [Online Screening](screening/online-screening.md)
 
 ## Components
 
-* [Apa Itu Components?](components/apa-itu-components.md)
 * [Components](components/components.md)
