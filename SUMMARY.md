@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Getting Started](README.md)
+* [Laravel Klinik Gunun](README.md)
+* [Getting Started](<README (1).md>)
 
 ## Auth
 
@@ -16,3 +17,12 @@
 ## Airtable
 
 * [API](airtable/api.md)
+
+## Screening
+
+* [Offline Screening](screening/offline-screening.md)
+
+## Components
+
+* [Apa Itu Components?](components/apa-itu-components.md)
+* [Components](components/components.md)
