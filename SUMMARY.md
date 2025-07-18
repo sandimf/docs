@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [test-screening-tanpa-pendampingan-dan-konsultasi](test-screening-tanpa-pendampingan-dan-konsultasi.md)
 
 ## Auth
 
@@ -8,5 +9,3 @@
 * [Login](auth/login.md)
 
 ## Tests
-
-* [test-screening-tanpa-pendampingan-dan-konsultasi](test-screening-tanpa-pendampingan-dan-konsultasi.md)
