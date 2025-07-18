@@ -1,4 +1,4 @@
-#Klinik Gunung - Medical Clinic Management System
+# Klinik Gunung - Medical Clinic Management System
 
 [![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel)](https://laravel.com)
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org)
@@ -9,7 +9,7 @@ A comprehensive medical clinic management system designed for mountain clinics, 
 
 ## ✨ Features
 
-### 🏥 Core Medical Services
+### Core Medical Services
 - **Patient Management** - Complete patient registration and profile management
 - **Appointment Scheduling** - Advanced booking system with doctor availability
 - **Medical Records** - Digital EMR system with comprehensive patient history
