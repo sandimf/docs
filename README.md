@@ -512,18 +512,3 @@ php artisan queue:clear
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Laravel Team** - For the amazing PHP framework
-- **React Team** - For the powerful JavaScript library
-- **Inertia.js** - For bridging server-side and client-side
-- **Tailwind CSS** - For the utility-first CSS framework
-- **Shadcn/UI** - For beautiful UI components
-- **Medical Community** - For valuable feedback and requirements
-
----
-
-**Built with ❤️ for healthcare professionals and mountain communities**
-
-> For more detailed documentation, please visit our [Wiki](https://github.com/your-username/klinik-gunung/wiki)
