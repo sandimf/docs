@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Klinik Gunung - Medical Clinic Management System](README.md)
+* [Introduction](README.md)
 * [Getting Started](readme.md)
 
 ## Auth
