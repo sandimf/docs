@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Laravel Klinik Gunung](README.md)
+* [Klinik Gunung - Medical Clinic Management System](README.md)
 * [Getting Started](readme.md)
 
 ## Auth
