@@ -66,6 +66,6 @@ Setelah pembayaran cetak nota
 
 <figure><img src=".gitbook/assets/Screen Shot 2025-07-18 at 11.38.06.png" alt=""><figcaption></figcaption></figure>
 
-Riwayat Transaksi
+Riwayat Transaksi produk dan obat
 
 <figure><img src=".gitbook/assets/Screen Shot 2025-07-18 at 11.41.34.png" alt=""><figcaption></figcaption></figure>
