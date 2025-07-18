@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Laravel Klinik Gunung](README.md)
-* [Getting Started](<README (1).md>)
+* [Getting Started](readme.md)
 
 ## Auth
 

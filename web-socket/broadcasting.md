@@ -1,5 +1,4 @@
 ---
-icon: laravel
 description: By default, broadcasting is not enabled in new Laravel applications.
 ---
 
@@ -34,8 +33,6 @@ REVERB_APP_ID=my-app-id
 REVERB_APP_KEY=my-app-key
 REVERB_APP_SECRET=my-app-secret
 ```
-
-
 
 ### Setup
 
@@ -73,3 +70,4 @@ php artisan reverb:start
 ```
 
 This step will start the Reverb server to handle the WebSocket connections.
+
