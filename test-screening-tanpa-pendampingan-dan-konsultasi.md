@@ -6,7 +6,7 @@ Pasien mengisi data pribadi yang dilakukan oleh admin kasir.
 
 <figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
-Sebelum admin kasir melanjutkan screening, admin kasir harus cek apakah data sudah benar dan sesuai dengan data pasien?
+Sebelum dilakukan submit data client, admin cashier harus memastikan kesesuaian data pribadi client.
 
 <figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
@@ -18,15 +18,13 @@ Setelah mengiri kuesioner dan mengirim, pasien di arahkan ke pemeriksaan fisik a
 
 ## 2. Pemeriksaan Fisik
 
-Pada perawat pasien yang sebelumnya mengisi data pribadi dan kuesioner akan muncul di daftar screening dan ada notifikasi yang masuk.
+Perawat atau paramedis akan melakukan pemeriksaan fisik sesuai dengan notif yang muncul di dashboar atau pada menu daftar screening.
 
 <figure><img src=".gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
-
-
-Selanjutnya perawat mengecek atau validasi dari kuesioner sebelumnya
+Perawat atau paramedis akan memastikan terkait data quisioner tentang kesehatan pendakian client. (Hijau :normal, Merah :bermasalah)
 
 <figure><img src=".gitbook/assets/Screen Shot 2025-07-18 at 11.28.49.png" alt=""><figcaption></figcaption></figure>
 
