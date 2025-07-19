@@ -8,4 +8,8 @@
 * [Register](auth/register.md)
 * [Login](auth/login.md)
 
-## Tests
+## Setup Server
+
+***
+
+* [Modem Ruijie](modem-ruijie.md)
