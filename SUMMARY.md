@@ -8,8 +8,10 @@
 * [Register](auth/register.md)
 * [Login](auth/login.md)
 
-## Setup Server
+## Server
 
 ***
 
+* [Proxmox](proxmox/README.md)
+  * [CCTV](proxmox/cctv.md)
 * [Modem Ruijie](modem-ruijie.md)
