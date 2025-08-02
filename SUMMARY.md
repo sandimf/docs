@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Screening](test-screening-tanpa-pendampingan-dan-konsultasi.md)
 
 ## Auth
 
@@ -15,3 +14,8 @@
 * [Proxmox](proxmox/README.md)
   * [CCTV](proxmox/cctv.md)
 * [Modem Ruijie](modem-ruijie.md)
+* [Page 1](page-1.md)
+
+## Screening Test
+
+* [Screening](screening-test/test-screening-tanpa-pendampingan-dan-konsultasi.md)
